@@ -98,3 +98,5 @@ while True:
                 print(pyautogui.locateOnScreen('score_1.png', region=(1216, 298, 1225, 313)))
         except TypeError:
             pass
+
+#siemanko
